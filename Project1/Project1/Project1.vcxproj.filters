@@ -21,5 +21,14 @@
     <ClCompile Include="type.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="memory.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ref1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ref2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
